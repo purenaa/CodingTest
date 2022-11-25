@@ -1,0 +1,9 @@
+﻿  Test3.cpp
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(15,9): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(15,34): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(14,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(15,48): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(19,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test3\Test3.cpp(9,6): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+  Test3.vcxproj -> C:\OSSTEM\Cording\codingT\Test3\Debug\Test3.exe
