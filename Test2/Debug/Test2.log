@@ -1,0 +1,11 @@
+﻿  Test2.cpp
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(32,9): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(42,16): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(42,16): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(52,12): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(42,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(51,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OSSTEM\Cording\codingT\Test2\Test2.cpp(26): warning C4700: 초기화되지 않은 'AnswerN' 지역 변수를 사용했습니다.
+  Test2.vcxproj -> C:\OSSTEM\Cording\codingT\Test2\Debug\Test2.exe
